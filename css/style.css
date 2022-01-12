@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+.banner__content img{
+   background-repeat: no-repeat;
+   background-position: center center;
+   width: 100%;
+   background-size: cover;
+   
+} 
+
+#team{
+    background: #111;
+    color: #fff;
+    text-align: center;
+    font-weight: 200;
+    padding: 5px;
+}
+
+#Copyright{
+    /* background-color: rgba(0, 0, 0, 0.05); */
+    background-color: black;
+}
+
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
